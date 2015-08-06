@@ -4,7 +4,7 @@ This Blender Addon will add a pixel art option to the UV/Image Editor that will 
 ##Installation
 
 1. Download or Clone this repo.
-2. Open Blender's User Preferences Panel (Ctrl+Alt+U or Command+,)
+2. Open Blender's User Preferences Panel (Ctrl+Alt+U or Command+,) select Addons
 3. Select Install from file and choose this Python script.
 4. Find "Pixel Art to Cube" in the mod list and enable it.
 
